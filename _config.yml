@@ -1,0 +1,28 @@
+name: RSI
+favicon: null
+layout_spectrum: 0.3366014948114753
+typography_spectrum: 0.6579501181840897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6995434584096074
+  lightness: 0.8629744844511151
+  saturation: 0.07802533498033881
+  rhythmicContrast: 0.8669747530948371
+purpose: []
